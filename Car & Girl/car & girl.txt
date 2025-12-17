@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Selectors</title> 
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>My Headings</h1> 
+    <h2>My Headings2</h2> 
+    <h2>My Headings3</h2> 
+    <p class="myclass">Lorem ipsum dolor sit amet.</p>
+    <p id="mypera">Lorem ipsum dolor sit amet.</p>
+    <p>Lorem ipsum dolor sit amet.</p>
+    <p class="myclass">Lorem ipsum dolor sit amet.</p>
+
+    <botton>clic here</botton>
+    <img src="https://imgd.aeplcdn.com/642x361/n/cw/ec/124389/citroen-c3-right-front-three-quarter10.jpeg?isig=0&q=80" alt="object"use img="obj"><br>
+    <br>
+    <marquee>that's Farhan car</marquee>
+    <img src="https://images.pexels.com/photos/30889575/pexels-photo-30889575/free-photo-of-elegant-orange-sports-car-on-scenic-road.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="object" use img="obj">
+    <br>
+    <br>
+    <marquee font size 30px>this one is imran car</marquee>
+    <img src="https://eu-images.contentstack.com/v3/assets/blt0bbd1b20253587c0/blt4bf1a4090380d5b0/651579e1a95ca40cf4969a68/00-Divo_BUGATTI.jpg?width=1280&auto=webp&quality=80&format=jpg&disable=upscale" alt="object"  use img="obj">
+    <br><br>
+    <marquee>she is hamza girl freind</marquee> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLcx6GNlSWvRFyh6LxVoB41pSaMAsmGKAapA&s" alt="object" use img="obj"><br><br>
+<br><br> 
+<marquee>salman</marquee>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJhySPxwUDUHeGA9QwhV3-PSthyo5xiptTXg&s" alt="object"use img="obj">
+    <h2> heading</h2>
+</body>
+</html>
